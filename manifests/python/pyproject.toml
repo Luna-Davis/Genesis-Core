@@ -1,0 +1,18 @@
+[build-system]
+requires = ["uv-build >= 0.9.11"]
+build_backend = "uv_build"
+
+[project]
+name = ""
+description = ""
+version = ""
+requires-python = ">= 3.12"
+license = ""
+dependencies = []
+
+[project.optional-dependencies]
+gui = []
+cli = []
+
+[project.urls]
+Documentation = ""
