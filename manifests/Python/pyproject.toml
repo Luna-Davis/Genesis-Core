@@ -3,11 +3,11 @@ requires = ["uv-build >= 0.9.11"]
 build_backend = "uv_build"
 
 [project]
-name = ""
-description = ""
+name = {{projectName}}
+description = {{description}}
 version = ""
 requires-python = ">= 3.12"
-license = ""
+license = {{license}}
 dependencies = []
 
 [project.optional-dependencies]

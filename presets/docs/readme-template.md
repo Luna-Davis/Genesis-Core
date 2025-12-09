@@ -1,8 +1,8 @@
-# {{project name}}
+# {{projectName}}
 
 
 ## Overview
-short description
+{{description}}
 
 ## Setup
 Steps to run
