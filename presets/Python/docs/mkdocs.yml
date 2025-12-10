@@ -1,0 +1,3 @@
+site_name: {{projectName}}
+theme:
+  name: material
