@@ -1,3 +1,0 @@
-{
-  "rules": ["no-gets", "no-unsafe-pointer-arithmetic"]
-}
